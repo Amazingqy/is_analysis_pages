@@ -125,3 +125,25 @@
   color:#00CCFF;
   text-align:center;
 }
+#u16 {
+  border-width:0px;
+  position:absolute;
+  left:250px;
+  top:236px;
+  width:321px;
+  height:75px;
+}
+#u16_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:321px;
+  height:75px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  text-decoration:none;
+  color:#00CCFF;
+  text-align:center;
+}
